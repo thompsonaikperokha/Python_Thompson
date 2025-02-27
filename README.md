@@ -1,2 +1,2 @@
-# Python_Thompson
-Python 
+Data Scientist | Scrum Master
+
